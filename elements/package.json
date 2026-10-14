@@ -8,6 +8,7 @@
   "module": "./pfe.js",
   "types": "./pfe.d.ts",
   "exports": {
+    "./custom-elements.json": "./custom-elements.json",
     "./form-control.css": "./form-control.css",
     "./form-control.css.js": "./form-control.css.js",
     "./pf-v5-accordion/pf-v5-accordion-header.js": "./pf-v5-accordion/pf-v5-accordion-header.js",
